@@ -3,10 +3,14 @@
 
 To write a Scilab program to simulate frequency division multiplexing and demultiplexing for six different frequencies, and verify the demultiplexed outputs correspond to the original signals.
 
+---
+
 ### EQUIPMENTS Needed
 
 Computer with Scilab installed
 
+
+---
 ### ALGORITHM
 
 Define six different frequencies to generate six sine wave signals.
@@ -21,6 +25,8 @@ Frequency Division Demultiplexing: for each frequency, multiply the multiplexed 
 
 Plot original signals, multiplexed signal, and demultiplexed signals for verification.
 
+
+---
 ### PROGRAM
 
 ```
@@ -72,6 +78,8 @@ end
 
 ```
 
+
+---
 ### GRAPH:
 
 <img width="1915" height="901" alt="image" src="https://github.com/user-attachments/assets/2d1568ef-ed4a-4499-828f-d4928e1800a7" />
