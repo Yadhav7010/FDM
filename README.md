@@ -78,9 +78,14 @@ end
 <img width="1648" height="804" alt="image" src="https://github.com/user-attachments/assets/7c8ea91b-075f-48fa-a5f4-1a206c26613b" />
 <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/38da7fb9-924a-42eb-a5c6-2555e11b7aa5" />
 
+---
 
 ### TABULATION:
+<img width="948" height="1280" alt="image" src="https://github.com/user-attachments/assets/b86619a3-7d07-42f4-8c0d-8657c39cd4be" />
+<img width="997" height="1164" alt="image" src="https://github.com/user-attachments/assets/04ac7e48-3402-443a-8375-98b45463830b" />
 
+
+---
 
 ### RESULTS:
 
